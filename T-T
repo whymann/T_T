@@ -1,0 +1,7 @@
+# T_T
+def calculate_health(damage,currcet,armor):
+    health = damage*currcet-armor #math 
+    print(health)
+    
+calculate_health(100,10,5)
+ 
